@@ -1,0 +1,5 @@
+{
+  "name": "PolyGlot RAG 🧠",
+  "description": "A high-performance multilingual RAG (Retrieval-Augmented Generation) chatbot that allows users to upload PDF documents and ask questions in any language with factual accuracy guaranteed by Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
